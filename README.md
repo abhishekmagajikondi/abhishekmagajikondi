@@ -14,7 +14,7 @@
 <a href="https://kaggle.com/abhishek magajikondi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="abhishek magajikondi" height="30" width="40" /></a>
 <a href="https://instagram.com/abhishekmagajikondi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhishekmagajikondi" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/abhishek magajikondi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="abhishek magajikondi" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/abhishek magajikondi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishek magajikondi" height="30" width="40" /></a>
+<a href="https://leetcode.com/Abhishek_Magajikondi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="abhishek magajikondi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
