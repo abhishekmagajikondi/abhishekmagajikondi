@@ -1,4 +1,4 @@
-![logo](https://github.com/abhishekmagajikondi/abhishek-magajikondi/blob/main/github.jpg)
+
 <h1 align="center">Hi 👋, I'm Abhishek Magajikondi</h1>
 <h3 align="center">"Exploring the Digital Horizon: A 3rd-Year Electronics and Communication Engineer's Journey into the World of Software"</h3>
 
